@@ -7,3 +7,6 @@
 [Video](https://programming.tosinso.com/fa/videos/7847)
 
 [Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/tree/master/01%20Lambda%20Expressions)
+
+
+<b>Chapter 02: Method References</b>
