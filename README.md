@@ -10,3 +10,7 @@
 
 
 <b>Chapter 02: Method References</b>
+
+[Video](https://programming.tosinso.com/fa/videos/7904)
+
+[Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/02%20Method%20References/src.rar)
