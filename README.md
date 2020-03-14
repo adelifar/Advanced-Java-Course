@@ -18,7 +18,7 @@
 
 <b>Chapter 04: Reflection 1</b>
 
-[Video](https://programming.tosinso.com/fa/videos/7904)
+[Video](https://programming.tosinso.com/fa/videos/7922)
 
 [Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/tree/master/04%20Reflection1/)
 
