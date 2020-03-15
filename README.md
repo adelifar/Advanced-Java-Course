@@ -24,6 +24,6 @@
 
 <b>Chapter 05: Reflection 2</b>
 
-[Video](https://programming.tosinso.com/fa/videos/7904)
+[Video](https://programming.tosinso.com/fa/videos/7923)
 
 [Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/05%20Reflection2/src.rar)
