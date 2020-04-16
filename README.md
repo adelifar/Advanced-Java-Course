@@ -33,3 +33,15 @@
 [Video](https://programming.tosinso.com/fa/videos/7951)
 
 [Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/06%20ReflectionObjectMembers/src.rar)
+
+<b>Chapter 07: Stream Introduction</b>
+
+[Video](https://programming.tosinso.com/fa/videos/7976)
+
+[Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/tree/master/07%20StreamIntro/src/com/tosinso)
+
+<b>Chapter 08: Streams 2</b>
+
+[Video](https://programming.tosinso.com/fa/videos/8067)
+
+[Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/08%20Stream%202/src.rar)
