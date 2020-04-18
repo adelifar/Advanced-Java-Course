@@ -45,3 +45,9 @@
 [Video](https://programming.tosinso.com/fa/videos/8067)
 
 [Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/08%20Stream%202/src.rar)
+
+<b>Chapter 09: Optional</b>
+
+[Video](https://programming.tosinso.com/fa/videos/8084)
+
+[Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/09%20Optional/src.rar)
