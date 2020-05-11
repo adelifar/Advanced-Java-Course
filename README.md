@@ -51,3 +51,9 @@
 [Video](https://programming.tosinso.com/fa/videos/8084)
 
 [Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/09%20Optional/src.rar)
+
+<b>Chapter 10: Stream Collect</b>
+
+[Video](https://programming.tosinso.com/fa/videos/8084)
+
+[Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/10%20Stream%20Collect/src.rar)
