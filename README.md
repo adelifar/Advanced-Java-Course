@@ -54,6 +54,6 @@
 
 <b>Chapter 10: Stream Collect</b>
 
-[Video](https://programming.tosinso.com/fa/videos/8084)
+[Video](https://programming.tosinso.com/fa/videos/8211)
 
 [Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/10%20Stream%20Collect/src.rar)
