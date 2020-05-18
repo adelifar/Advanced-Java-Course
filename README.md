@@ -57,3 +57,10 @@
 [Video](https://programming.tosinso.com/fa/videos/8211)
 
 [Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/10%20Stream%20Collect/src.rar)
+
+<b>Chapter 11: Stream Collect to map and grouping and partitioning</b>
+
+[Video](https://programming.tosinso.com/fa/videos/8256)
+
+[Source Code](https://github.com/MehdiAdeliFar/Advanced-Java-Course/blob/master/10%20Stream%20Collect/src.rar)
+
