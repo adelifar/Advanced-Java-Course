@@ -9,7 +9,7 @@ public class Employee {
     private int hireYear;
 
 
-    private int numbers[];
+    private int[] numbers;
 
     public Employee(String n, double sa, int year, int[] nn) {
 //        this.name = n;
