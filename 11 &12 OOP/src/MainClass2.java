@@ -29,13 +29,13 @@ public class MainClass2 {
     }
 }
 
-//class Employee {
+//class pk1.Employee {
 //    //fields
 //    private String name;
 //    private double salary;
 //    private int hireYear;
 //
-//    public Employee(String n, double sa, int year) {
+//    public pk1.Employee(String n, double sa, int year) {
 //        this.name = n;
 //        this.salary = sa;
 //        this.hireYear = year;

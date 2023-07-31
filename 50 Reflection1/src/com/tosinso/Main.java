@@ -17,7 +17,7 @@ public class Main {
         Employee employee = new Employee();
         System.out.println(employee.getClass().getName());
 
-        String className = "com.tosinso.Employee";
+        String className = "com.tosinso.pk1.Employee";
         try {
             Class clss = Class.forName(className);
             System.out.println(clss.getName());
@@ -59,14 +59,14 @@ public class Main {
             System.out.println("Classes are equal");
         }
         if(employee1.getClass()==Employee.class){
-            System.out.println("Class is Employee");
+            System.out.println("Class is pk1.Employee");
         }
         if(employee1 instanceof Employee){
-            System.out.println("Class is Employee");
+            System.out.println("Class is pk1.Employee");
         }
 
 
-        String clName = "com.tosinso.Employee";
+        String clName = "com.tosinso.pk1.Employee";
         try {
             Class clss = Class.forName(clName);
             System.out.println(clss.getName());

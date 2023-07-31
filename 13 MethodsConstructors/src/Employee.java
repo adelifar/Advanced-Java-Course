@@ -33,7 +33,7 @@ public class Employee {
         return firstName + " " + lastname;
     }
 
-    //accessor [return type] [method name](arguments int a , String b, double c, Employee ee, String[] sArray)
+    //accessor [return type] [method name](arguments int a , String b, double c, pk1.Employee ee, String[] sArray)
     public double getSalary() {
 
         //return data

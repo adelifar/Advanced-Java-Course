@@ -1,8 +1,10 @@
-public class Manager extends Employee{
+import pk1.Employee;
+
+public class Manager extends Employee {
     public Manager(String name){
         super(name);
     }
-    public void plan(){
+    public final void plan(){
         System.out.println("manager " +getName()+" is planning for thin month");
     }
 
